@@ -270,3 +270,6 @@ st.markdown('''
             - Conclusion Pertanyaan 2:
                 penyewaan sepeda paling banyak terjadi di bulan ke-7 atau bulan Juli.
             ''')
+
+if __name__ == "__main__":
+    pass
