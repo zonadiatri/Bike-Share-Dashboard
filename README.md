@@ -1,7 +1,8 @@
 # BIKE-SHARING-DATASET-ANALYSYS
 ##### ZONA DIATRI | M315B4KX4628 | DICODING_BANGKIT 2024 BATCH 2 🚀 🚀
 
-**Welcome to ZooBike, Bike Share Dashboard**! 
+**Welcome to ZooBike🚲 Bike Share Dashboard**! 
+## 🌟Let's start exploring! 🚀
 ## APP
 ![Screenshot 2024-10-01 195531](https://github.com/user-attachments/assets/575397cf-5730-4db6-ba1b-085b03f2916a)
 
