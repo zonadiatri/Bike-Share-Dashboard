@@ -14,7 +14,7 @@ st.markdown("""
 """)
 
 # Memuat dataset
-df = pd.read_csv('hour.csv')
+df = pd.read_csv('bike_data.csv')
 
 # Sidebar untuk navigasi dan filter
 st.sidebar.header('🗺️ Navigation and Filters')
